@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Title</key>
+	<string></string>
+	<key>Topics</key>
+	<array/>
+	<key>Description</key>
+	<string></string>
+	<key>Tags</key>
+	<string></string>
+	<key>Introduction</key>
+	<dict>
+		<key>recordTime</key>
+		<string>5</string>
+		<key>message</key>
+		<string>My name is ______, and this is my story.</string>
+		<key>videoPath</key>
+		<string></string>
+		<key>thumbnailPath</key>
+		<string></string>
+	</dict>
+	<key>Setup</key>
+	<dict>
+		<key>recordTime</key>
+		<string>45</string>
+		<key>message</key>
+		<string>Describe a struggle in your life or how you have seen God’s provision in your life.</string>
+		<key>videoPath</key>
+		<string></string>
+		<key>thumbnailPath</key>
+		<string></string>
+	</dict>
+	<key>God Moment</key>
+	<dict>
+		<key>recordTime</key>
+		<string>60</string>
+		<key>message</key>
+		<string>Describe how your life has changed because of your personal relationship with Jesus.</string>
+		<key>videoPath</key>
+		<string></string>
+		<key>thumbnailPath</key>
+		<string></string>
+	</dict>
+	<key>The Word</key>
+	<dict>
+		<key>recordTime</key>
+		<string>60</string>
+		<key>message</key>
+		<string>Share the Bible verse that means the most to you and why, or one that helped you during this time of struggle and how.</string>
+		<key>videoPath</key>
+		<string></string>
+		<key>thumbnailPath</key>
+		<string></string>
+	</dict>
+	<key>Conclusion</key>
+	<dict>
+		<key>recordTime</key>
+		<string>5</string>
+		<key>message</key>
+		<string>My name is _____, and I will be a light.</string>
+		<key>videoPath</key>
+		<string></string>
+		<key>thumbnailPath</key>
+		<string></string>
+	</dict>
+	<key>BGMusicFileName</key>
+	<string></string>
+	<key>Scripture</key>
+	<dict>
+		<key>book_order</key>
+		<string></string>
+		<key>bibleType</key>
+		<string></string>
+		<key>bookName</key>
+		<string></string>
+		<key>chapter</key>
+		<string></string>
+		<key>verse</key>
+		<string></string>
+		<key>verseNumber</key>
+		<string></string>
+		<key>bible_name</key>
+		<string></string>
+		<key>book_id</key>
+		<string></string>
+	</dict>
+	<key>OutputURL</key>
+	<string></string>
+	<key>mergedVideoThumbnailPath</key>
+	<string></string>
+	<key>isMerged</key>
+	<false/>
+	<key>isCompleted</key>
+	<false/>
+	<key>isUploaded</key>
+	<false/>
+	<key>YoutubeThumbNailUrl</key>
+	<string></string>
+	<key>isApproved</key>
+	<false/>
+	<key>currentScreen</key>
+	<string>Introduction</string>
+	<key>YoutubeId</key>
+	<string></string>
+	<key>VideoId</key>
+	<string></string>
+	<key>Country</key>
+	<string></string>
+	<key>Language</key>
+	<string></string>
+	<key>currentScreenIndex</key>
+	<integer>0</integer>
+	<key>completedStepIndex</key>
+	<integer>-1</integer>
+</dict>
+</plist>

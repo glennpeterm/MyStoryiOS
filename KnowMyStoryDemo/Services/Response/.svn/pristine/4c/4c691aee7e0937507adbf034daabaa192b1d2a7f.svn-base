@@ -1,0 +1,15 @@
+
+// File Name: DSCResponse.h
+// Created By: Aswathy
+// Created On: 31/10/12.
+// Purpose: Model for  Response Info from Webservice
+// Copyright (c) 2012 Rapid Value Solutions. All rights reserved.
+
+#import <Foundation/Foundation.h>
+
+@interface DSCResponse : NSObject
+
+@property (nonatomic, assign) int statusCode;
+@property (nonatomic, assign) int requestType;
+@property (nonatomic, strong) NSString *messageString;
+@end

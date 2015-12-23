@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14A389" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="BibleBooks" representedClassName="BibleBooks" syncable="YES">
+        <attribute name="bible_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bible_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_order" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="chapters" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dam_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number_of_chapters" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uniqueId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="BibleVerse" representedClassName="BibleVerse" syncable="YES">
+        <attribute name="bible_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_order" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="chapter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uniqueId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verse" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="Country" representedClassName="Country" syncable="YES">
+        <attribute name="countryId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="countryName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Language" representedClassName="Language" syncable="YES">
+        <attribute name="bible_version" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="OfflineBible" representedClassName="OfflineBible" syncable="YES">
+        <attribute name="bible_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="book_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="chapter" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uniqueId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verse" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verse_text" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="emailId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isActive" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lastName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="photo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="profilePicId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="provider" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="providerInfo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zipCode" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BibleBooks" positionX="-324" positionY="-333" width="128" height="193"/>
+        <element name="BibleVerse" positionX="-135" positionY="-234" width="128" height="133"/>
+        <element name="Country" positionX="-468" positionY="-63" width="128" height="75"/>
+        <element name="Language" positionX="-270" positionY="-342" width="128" height="90"/>
+        <element name="OfflineBible" positionX="196" positionY="-9" width="128" height="133"/>
+        <element name="UserInfo" positionX="7" positionY="-486" width="128" height="285"/>
+    </elements>
+</model>

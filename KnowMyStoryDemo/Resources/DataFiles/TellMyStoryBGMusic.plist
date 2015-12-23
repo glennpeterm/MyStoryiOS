@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fileName</key>
+		<string>No Music.mp3</string>
+		<key>title</key>
+		<string>No Music</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>A Grey Sky.mp3</string>
+		<key>title</key>
+		<string>A Grey Sky</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Arctic Underneath it all.mp3</string>
+		<key>title</key>
+		<string>Arctic Underneath it all</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Darkness Falls.mp3</string>
+		<key>title</key>
+		<string>Darkness Falls</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Elevated.mp3</string>
+		<key>title</key>
+		<string>Elevated</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Into the wild Something beautiful.mp3</string>
+		<key>title</key>
+		<string>Into the wild Something beautiful</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Outreach Changing.mp3</string>
+		<key>title</key>
+		<string>Outreach Changing</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Secret Place.mp3</string>
+		<key>title</key>
+		<string>Secret Place</string>
+	</dict>
+	<dict>
+		<key>fileName</key>
+		<string>Solemn Drone Good To Be Here.mp3</string>
+		<key>title</key>
+		<string>Solemn Drone Good To Be Here</string>
+	</dict>
+</array>
+</plist>
